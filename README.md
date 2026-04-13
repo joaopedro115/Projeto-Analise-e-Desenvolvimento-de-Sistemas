@@ -28,7 +28,8 @@ Este repositório contém a resolução das 11 questões da lista proposta, incl
 
 ### Questão 01 – Conta de Luz
 
-![WhatsApp Image 2026-04-13 at 19 26 42 (10)](https://github.com/user-attachments/assets/cce452b6-fbfb-4973-9859-d3bb24cea60b)
+![WhatsApp Image 2026-04-13 at 19 26 45](https://github.com/user-attachments/assets/d0c844fe-4b8c-48ab-8515-c6690d26771e)
+
 
 ---
 
