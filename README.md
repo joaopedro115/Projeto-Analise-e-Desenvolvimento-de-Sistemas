@@ -35,61 +35,68 @@ Este repositório contém a resolução das 11 questões da lista proposta, incl
 
 ### Questão 02 – TextoSaída
 
-![Diagrama Questão 02](./imagens/q2.png)
+![WhatsApp Image 2026-04-13 at 19 26 45](https://github.com/user-attachments/assets/11679e8f-2127-44b5-9868-817e28fd75e4)
+
 
 ---
 
 ### Questão 03 – Boneco em Movimento
 
-![Diagrama Questão 03](./imagens/q3.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (11)](https://github.com/user-attachments/assets/3844fc25-2935-4136-8a50-4b9e79a22256)
+
 
 ---
 
 ### Questão 04 – Horário de Remédios
 
-![Diagrama Questão 04](./imagens/q4.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (10)](https://github.com/user-attachments/assets/541afad6-2ce5-47c2-b5c6-6a97c1f78014)
+
 
 ---
 
 ### Questão 05 – Gastos Diários
 
-![Diagrama Questão 05](./imagens/q5.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (9)](https://github.com/user-attachments/assets/b2b579bc-d483-47d4-8fa8-bb39fd5d4d58)
 
 ---
 
 ### Questão 06 – Comanda Eletrônica
 
-![Diagrama Questão 06](./imagens/q6.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (8)](https://github.com/user-attachments/assets/6d0ba241-37c7-4864-90f8-57892d2ebb7b)
+
 
 ---
 
 ### Questão 07 – Lista de Compras
 
-![Diagrama Questão 07](./imagens/q7.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (7)](https://github.com/user-attachments/assets/b1351751-e7ed-42e7-827b-2a05a3714de3)
 
 ---
 
 ### Questão 08 – Coleção de CDs
 
-![Diagrama Questão 08](./imagens/q8.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (6)](https://github.com/user-attachments/assets/049ed7a6-67db-45f1-b32c-401566ebf668)
+
 
 ---
 
 ### Questão 09 – Coleção de CDs (Variação)
 
-![Diagrama Questão 09](./imagens/q9.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (5)](https://github.com/user-attachments/assets/6bf77e47-8ce0-40ed-83e3-12b023fc9b72)
+
 
 ---
 
 ### Questão 10 – Sala de Reunião
 
-![Diagrama Questão 10](./imagens/q10.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (4)](https://github.com/user-attachments/assets/42a6a1dd-fecd-4107-8bb1-73e628e7db82)
 
 ---
 
 ### Questão 11 – Herança
 
-![Diagrama Questão 11](./imagens/q11.png)
+![WhatsApp Image 2026-04-13 at 19 26 42 (3)](https://github.com/user-attachments/assets/f72d9692-59d9-4f2d-8c0d-5ed1f55448c0)
+
 
 ---
 
