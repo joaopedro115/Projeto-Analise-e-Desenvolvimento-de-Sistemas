@@ -26,8 +26,7 @@ Este repositório contém a resolução das 11 questões da lista proposta, incl
 
 ## 🧩 Diagramas de Classes (Prints)
 
-📍 Questão 01
-🟦 Questão 01 – Conta de Luz
+ Questão 01 – Conta de Luz
 
 Sistema de controle de consumo de energia elétrica.
 
@@ -40,8 +39,7 @@ Conceitos: classes de domínio, agregação, relatórios.
 
 ---
 
-📍 Questão 02
-🟦 Questão 02 – TextoSaída
+ Questão 02 – TextoSaída
 
 Sistema de configuração de textos visuais.
 
@@ -55,8 +53,7 @@ Conceitos: Enum, encapsulamento, renderização dinâmica.
 
 ---
 
-📍 Questão 03
-🟦 Questão 03 – Boneco em Movimento
+ Questão 03 – Boneco em Movimento
 
 Simulação de movimento em grade bidimensional.
 
@@ -69,8 +66,7 @@ Conceitos: estado, comportamento, enums, simulação.
 
 ---
 
-📍 Questão 04
-🟦 Questão 04 – Horário de Remédios
+ Questão 04 – Horário de Remédios
 
 Sistema de controle de medicação pessoal.
 
@@ -83,8 +79,7 @@ Conceitos: regras de negócio, automação, data/hora.
 
 ---
 
-📍 Questão 05
-🟦 Questão 05 – Gastos Diários
+ Questão 05 – Gastos Diários
 
 Controle financeiro pessoal.
 
@@ -95,8 +90,7 @@ Conceitos: agregação, relatórios, agrupamento de dados.
 
 ---
 
-📍 Questão 06
-🟦 Questão 06 – Comanda Eletrônica (PDV)
+ Questão 06 – Comanda Eletrônica (PDV)
 
 Simulação de sistema de caixa de padaria.
 
@@ -109,8 +103,7 @@ Conceitos: composição, ciclo de vida de objetos.
 
 ---
 
-📍 Questão 07
-🟦 Questão 07 – Lista de Compras
+ Questão 07 – Lista de Compras
 
 Sistema de planejamento de compras mensais.
 
@@ -121,8 +114,7 @@ Conceitos: análise de dados, comparação, agregação.
 
 ---
 
-📍 Questão 08
-🟦 Questão 08 – Coleção de CDs
+ Questão 08 – Coleção de CDs
 
 Sistema de catálogo musical simples.
 
@@ -135,8 +127,7 @@ Conceitos: filtros, repositório de objetos.
 
 ---
 
-📍 Questão 09
-🟦 Questão 09 – Coleção de CDs (Avançado)
+ Questão 09 – Coleção de CDs (Avançado)
 
 Sistema musical com relacionamentos complexos.
 
@@ -148,8 +139,7 @@ Conceitos: relacionamento muitos-para-muitos, composição.
 
 ---
 
-📍 Questão 10
-🟦 Questão 10 – Sala de Reunião
+ Questão 10 – Sala de Reunião
 
 Sistema de agendamento corporativo.
 
@@ -161,8 +151,7 @@ Conceitos: controle de concorrência, validação de regras.
 
 ---
 
-📍 Questão 11
-🟦 Questão 11 – Herança (Pessoa, Cliente e Funcionário)
+ Questão 11 – Herança (Pessoa, Cliente e Funcionário)
 
 Sistema com hierarquia de classes.
 
