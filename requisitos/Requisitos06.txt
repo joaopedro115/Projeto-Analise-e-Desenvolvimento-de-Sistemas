@@ -1,0 +1,13 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – COMANDA ELETRÔNICA
+
+Requisitos Funcionais:
+RF01: Criar comanda com número único.
+RF02: Adicionar produtos.
+RF03: Registrar quantidades.
+RF04: Calcular total.
+RF05: Finalizar compra.
+
+Requisitos Não Funcionais:
+RNF01: Sistema rápido no caixa.
+RNF02: Evitar erros de cálculo.
+RNF03: Operação em tempo real.

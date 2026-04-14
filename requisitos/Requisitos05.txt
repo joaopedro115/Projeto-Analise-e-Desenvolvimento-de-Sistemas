@@ -1,0 +1,14 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – GASTOS DIÁRIOS
+
+Requisitos Funcionais:
+RF01: Registrar gastos.
+RF02: Categorizar tipo de gasto.
+RF03: Definir forma de pagamento.
+RF04: Calcular total mensal.
+RF05: Agrupar por tipo.
+RF06: Gerar relatórios.
+
+Requisitos Não Funcionais:
+RNF01: Armazenamento persistente.
+RNF02: Relatórios rápidos.
+RNF03: Suporte a muitos registros.

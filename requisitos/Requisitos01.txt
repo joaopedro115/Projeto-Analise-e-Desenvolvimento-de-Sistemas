@@ -1,0 +1,15 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – CONTA DE LUZ
+
+Requisitos Funcionais:
+RF01: Registrar leituras mensais da conta de luz.
+RF02: Calcular o consumo de energia do mês (kWh).
+RF03: Calcular o valor a pagar da conta.
+RF04: Identificar o mês de maior consumo.
+RF05: Identificar o mês de menor consumo.
+RF06: Gerar relatórios de consumo.
+
+Requisitos Não Funcionais:
+RNF01: Armazenar histórico mensal.
+RNF02: Cálculos automáticos.
+RNF03: Consulta rápida de relatórios.
+RNF04: Precisão nos cálculos financeiros.

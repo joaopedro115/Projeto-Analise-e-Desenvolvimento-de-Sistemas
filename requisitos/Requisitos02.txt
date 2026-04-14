@@ -1,0 +1,12 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – TEXTO SAÍDA
+
+Requisitos Funcionais:
+RF01: Configurar texto (tamanho, cor da fonte e fundo).
+RF02: Definir tipo de componente (label, edit, memo).
+RF03: Exibir texto formatado.
+RF04: Validar cores permitidas.
+
+Requisitos Não Funcionais:
+RNF01: Suporte apenas a cores pré-definidas.
+RNF02: Independência de linguagem de programação.
+RNF03: Renderização rápida.

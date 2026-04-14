@@ -1,0 +1,13 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – LISTA DE COMPRAS
+
+Requisitos Funcionais:
+RF01: Cadastrar produtos.
+RF02: Definir quantidade planejada e real.
+RF03: Atualizar preço estimado.
+RF04: Calcular total.
+RF05: Gerar relatório mensal.
+
+Requisitos Não Funcionais:
+RNF01: Atualização mensal.
+RNF02: Interface simples.
+RNF03: Armazenamento persistente.

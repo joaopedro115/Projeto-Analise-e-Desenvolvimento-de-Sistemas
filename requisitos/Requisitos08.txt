@@ -1,0 +1,12 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – COLEÇÃO DE CDs
+
+Requisitos Funcionais:
+RF01: Cadastrar CDs.
+RF02: Associar artistas.
+RF03: Listar CDs por artista.
+RF04: Exibir detalhes do CD.
+
+Requisitos Não Funcionais:
+RNF01: Suporte a grande volume.
+RNF02: Consultas rápidas.
+RNF03: Dados consistentes.

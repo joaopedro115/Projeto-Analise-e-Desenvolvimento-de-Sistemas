@@ -1,0 +1,14 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – HORÁRIO DE REMÉDIOS
+
+Requisitos Funcionais:
+RF01: Cadastrar remédio do paciente.
+RF02: Definir dosagem e frequência.
+RF03: Gerar horários automáticos.
+RF04: Criar planilha diária.
+RF05: Reorganizar horários em caso de atraso.
+RF06: Calcular data de término.
+
+Requisitos Não Funcionais:
+RNF01: Alertas em tempo real.
+RNF02: Confiabilidade do sistema.
+RNF03: Interface simples.

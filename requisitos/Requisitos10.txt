@@ -1,0 +1,14 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – HERANÇA (PESSOA)
+
+Requisitos Funcionais:
+RF01: Cadastrar pessoas.
+RF02: Diferenciar cliente e funcionário.
+RF03: Gerenciar dados comuns.
+RF04: Reajustar salário.
+RF05: Promover funcionário.
+RF06: Obter idade.
+
+Requisitos Não Funcionais:
+RNF01: Reutilização via herança.
+RNF02: Evitar redundância.
+RNF03: Sistema escalável.

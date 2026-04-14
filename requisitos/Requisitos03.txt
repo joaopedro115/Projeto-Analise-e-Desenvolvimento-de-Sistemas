@@ -1,0 +1,12 @@
+REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS – BONECO EM MOVIMENTO
+
+Requisitos Funcionais:
+RF01: Criar boneco com nome e posição.
+RF02: Mover para cima, baixo, esquerda e direita.
+RF03: Alterar direção.
+RF04: Atualizar posição em tempo real.
+
+Requisitos Não Funcionais:
+RNF01: Movimentação fluida.
+RNF02: Precisão nas coordenadas.
+RNF03: Baixo consumo de processamento.
