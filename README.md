@@ -86,6 +86,7 @@ Controle financeiro pessoal.
 Registro de gastos por tipo Formas de pagamento Totalização por categoria Relatório financeiro mensal
 
 Conceitos: agregação, relatórios, agrupamento de dados.
+
 ![WhatsApp Image 2026-04-13 at 19 26 42 (9)](https://github.com/user-attachments/assets/b2b579bc-d483-47d4-8fa8-bb39fd5d4d58)
 
 ---
@@ -110,6 +111,7 @@ Sistema de planejamento de compras mensais.
 Comparação entre quantidade planejada e real Controle de preços Cálculo de economia ou excesso Relatório de consumo
 
 Conceitos: análise de dados, comparação, agregação.
+
 ![WhatsApp Image 2026-04-13 at 19 26 42 (7)](https://github.com/user-attachments/assets/b1351751-e7ed-42e7-827b-2a05a3714de3)
 
 ---
@@ -134,6 +136,7 @@ Sistema musical com relacionamentos complexos.
 CDs com múltiplos músicos (N:N) Cadastro de músicas por CD Identificação de coletâneas e CDs duplos Consultas cruzadas (músico ↔ CD ↔ música)
 
 Conceitos: relacionamento muitos-para-muitos, composição.
+
 ![WhatsApp Image 2026-04-13 at 19 26 42 (5)](https://github.com/user-attachments/assets/6bf77e47-8ce0-40ed-83e3-12b023fc9b72)
 
 
