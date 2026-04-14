@@ -101,22 +101,7 @@ Este repositório contém a resolução das 11 questões da lista proposta, incl
 
 ---
 
-## 📄 Requisitos
-
-Os requisitos estão disponíveis no arquivo:
-
-📁 `requisitos.txt`
-
----
 
 ## 💻 Implementação
 
 O sistema foi desenvolvido utilizando Python com Streamlit.
-
----
-
-## ▶️ Execução
-
-```bash
-pip install streamlit pandas
-streamlit run app.py
